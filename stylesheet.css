@@ -33,24 +33,24 @@ text-align:center;
 }  
 
 #sal li {
-	display:inline;
-	padding:15px;
-	vertical-align:middle;
+display:inline;
+padding:15px;
+vertical-align:middle;
 }
 
 #sal a {
-	text-decoration:none;
-	padding:8px 8px 8px 8px;
-	color:blue;
-	vertical-align:middle;
+text-decoration:none;
+padding:8px 8px 8px 8px;
+color:blue;
+vertical-align:middle;
 }
 
 #sal a:hover {
-	color:red;
-	background-color:blue;
+color:red;
+background-color:blue;
 }
 
-	 #image {
+ #image {
 width:1350px;
 height:400px;
 }
@@ -61,9 +61,9 @@ list-style-type:none;
 text-align:center;
 }  
 #home li {
-	display:block;
-	padding:15px;
-	vertical-align:middle;
+display:block;
+padding:15px;
+vertical-align:middle;
 }
 
 
@@ -74,9 +74,9 @@ list-style-type:none;
 text-align:center;
 }  
 #about li {
-	display:block;
-	padding:15px;
-	vertical-align:middle;
+display:block;
+padding:15px;
+vertical-align:middle;
 }
 
 #addmission ul {
@@ -124,16 +124,16 @@ text-align:center;
 	margin:10px;
 }
 #welcome1 {
-	font-size:20px;
-	font-family:helvetical;
-	background-image:url(cloudsmass.jpg);
-	border:solid 10px blue;
-	padding:20px;
-	margin:10px;
+font-size:20px;
+font-family:helvetical;
+background-image:url(cloudsmass.jpg);
+border:solid 10px blue;
+padding:20px;
+margin:10px;
 }
 
 .underline {
-	text-decoration:underline;
+text-decoration:underline;
 }
 
 #school  {
